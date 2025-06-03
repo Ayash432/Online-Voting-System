@@ -15,7 +15,7 @@ VoteIndia is a comprehensive, secure online voting platform designed to moderniz
 #Backend
 
 - Runtime: Node.js
-- Database: PostgreSQL
+- Database: PostgreSQL(if u want to use another u can)
 
 #Development Tools
 
@@ -30,7 +30,7 @@ VoteIndia is a comprehensive, secure online voting platform designed to moderniz
 #Prerequisites
 
 - Node.js 18.0 or higher
-- PostgreSQL 15.0 or higher
+- PostgreSQL 15.0 or higher or any other 
 - Git
 
   1. Download the Repository
