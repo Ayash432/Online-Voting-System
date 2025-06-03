@@ -11,19 +11,11 @@ VoteIndia is a comprehensive, secure online voting platform designed to moderniz
 - Framework: Next.js 15 (App Router)
 - Language: TypeScript
 - Styling: Tailwind CSS
-- UI Components: shadcn/ui
-- Icons: Lucide React
-- Charts: Chart.js with React integration
-
 
 #Backend
 
 - Runtime: Node.js
-- **Database: PostgreSQL
-- ORM: Native SQL with @neondatabase/serverless
-- Authentication: Custom JWT implementation
-- File Upload: Multipart form handling
-
+- Database: PostgreSQL
 
 #Development Tools
 
