@@ -48,9 +48,6 @@ VoteIndia is a comprehensive, secure online voting platform designed to moderniz
 
 - 📧 Email: ayashmeshram18@gmail.com
 - 💬 Discord: sinu_432
-- 🐛 Issues: https://github.com/Ayash432/voteindia-v7/issues
-- 📖 Documentation: https://docs.voteindia.com
-
 
 #🙏 Acknowledgments
 
